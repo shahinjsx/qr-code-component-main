@@ -28,8 +28,8 @@ This is a static card component — it doesn't need to adapt across breakpoints,
 
 ### Links
 
-- Solution URL: [Frontend Mentor solution URL](https://your-solution-url.com)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor solution URL](https://www.frontendmentor.io/solutions/qr-code-component-using-html-and-css-k4KzC47SIB)
+- Live Site URL: [Live site URL](https://shahinjsx.github.io/qr-code-component-main/)
 
 ## My process
 
@@ -63,8 +63,6 @@ body {
 
 - Start practicing responsive layouts with `media queries`, `clamp()`, and CSS Grid on the next few challenges
 - Get more comfortable with naming conventions like BEM for larger projects
-
-
 
 ## Author
 
